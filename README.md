@@ -8,13 +8,14 @@
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my new project named POS APP.
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about anything you want...
 - 🌱 Learning all about **Open Source**
 
 
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br />
 
