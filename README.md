@@ -1,4 +1,4 @@
-### Hello World, I'm Dincer!  👋
+### Oh hey, I'm Dincer!  👋
 #### I'm a Frontend Developer working in Istanbul, Turkey.
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="500" height="320" />
@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything you want...
 - 🌱 Learning all about **Open Source**
+- ✍ Also I'm gonna share projects about redux-toolkit and more!
 
 
 
